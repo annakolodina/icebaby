@@ -1,0 +1,94 @@
+.page {
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: flex-end;
+    padding: 0;
+    width: 100%;
+    height: 92px;
+}
+
+.header_logo {
+    width: 46px;
+    height: 50.56px;
+    margin: 30px 15px 16px 16px;
+}
+
+.header_name {
+    font-size: 40px;
+    display: flex;
+    align-items: flex-end;
+    margin: 30px 107px 24px 0;
+    width: 220px;
+    white-space: nowrap;
+}
+
+.header__menu {
+    width: 581px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.header_menu-list {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    gap: 26px;
+    margin: 40px 20px 29px 0;
+}
+
+.header_menu-item {
+    margin-left: 25px;
+}
+
+.header_menu-item-chosen {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.content_lead {
+    font-size: 28px;
+    margin: 41px 68px 0 77px;
+    width: 855px;
+}
+
+.content_title {
+    font-size: 55px;
+    font-weight: bolder;
+    margin: 41px 107px 0 77px;
+}
+
+.content_text {
+    font-size: 22px;
+    margin: 36px 76px 0 77px;
+}
+
+.content_scheme {
+    align-items: center;
+    margin: 28px 46px 0 47px;
+}
+
+.footer {
+    width: 100%;
+    background-color: #62BCC2;
+    display: flex;
+    justify-content: space-between;
+    height: 177px;
+}
+
+.footer_copyright {
+    font-size: 14px;
+    margin: 64px 0 27px 76px;
+}
+
+.footer_contacts {
+    font-size: 33px;
+    font-weight: bolder;
+    color: white;
+    margin: 64px 77px 33px 0;
+}
