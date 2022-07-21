@@ -25,6 +25,7 @@
     margin: 30px 70px 24px 0;
     width: 220px;
     white-space: nowrap;
+    text-transform: uppercase;
 }
 
 .header__menu {
