@@ -1,6 +1,7 @@
  a:link {
     color: #000000;
-    padding: 2px; 
+    padding: 2px;
+    text-decoration: none;
    }
    a:hover {
     color: #62BCC2;
