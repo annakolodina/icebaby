@@ -3,8 +3,9 @@
     padding: 2px;
     text-decoration: none;
    }
-   a:hover {
+ a:hover {
     color: #62BCC2;
+    text-decoration: underline;
    } 
 
 .page {
